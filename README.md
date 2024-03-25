@@ -8,6 +8,9 @@ Specifically, this has ONLY been tested on the
 
 Contributors: Adam Patni and Axel Peytavin
 
+**IMPORTANT NOTE:** This repository is currently in active development, and the code has only been tested locally on a subset of functionalities. It has not undergone extensive testing, especially in diverse environments or on different hardware configurations. Users should proceed with caution and are encouraged to report any issues or contribute to the development.
+
+
 ## Usage
 
 To use the BLE_Audio_Stream_NRF52840 library in your project, follow these steps:
